@@ -1,1 +1,1 @@
-[![Hubok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hubok&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Hubok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hubok&show_icons=true&theme=merko&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
